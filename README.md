@@ -1,0 +1,1 @@
+# global_html_functions_for_javascript
